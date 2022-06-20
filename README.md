@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingArthurIsTheBest
+- 👋 Hi, I’m Arthur Isakov
 - 👀 I’m interested in programmation, riding horses and much more
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on large and important projects
